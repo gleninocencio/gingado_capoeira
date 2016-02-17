@@ -1,8 +1,12 @@
 @media all and (max-width:800px) {
 
+	
+	.hero-image {
+		text-align: center;
+	}
+
 	.hero-pic {
 		width: 350px;
-		text-align: center;
 	}
 
 	.hero-box {
