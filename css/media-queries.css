@@ -68,7 +68,9 @@
 	}
 
 	.call-to-action-content {
-		width: auto
+		width: auto;
+		font-size: 24px;
+		text-align: center;
 	}
 
 }
