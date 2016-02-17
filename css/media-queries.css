@@ -1,0 +1,70 @@
+@media all and (max-width:800px) {
+
+	.hero-pic {
+		width: 350px;
+		padding-left: 50px;
+	}
+
+	.hero-box {
+		height: 650px;
+	}
+
+	.home-hero-caption {
+		padding-top: 0px !important;
+		text-align: center;
+	}
+
+	.home-title {
+		font-size: 48px;
+		text-align: center;
+	}
+
+	.home-subtitle {
+		font-size: 24px;
+		text-align: center;
+	}
+
+	.btn-large {
+		/*margin-left: 140px;*/
+		top: 0; bottom:0; left: 0; right:0;
+    margin: auto;
+	}
+
+	.icons-home-section {
+		margin-left: 0px !important;
+		margin-right: 0px !important;
+	}
+
+	.testimonial-home-section {
+		height: 350px;
+	}
+
+	.jeremy-test-pic {
+		width: 175px;
+		padding-left: 65px;
+	}
+
+	.bq-jeremy {
+		padding-top: 0px !important;
+		width: 300px;
+		margin-left: 0px !important;
+	}
+
+	.bqstart {
+		font-size: 500%;
+	}
+
+	.jeremy_title {
+		line-height: 0.5;
+		text-align: center;
+	}
+
+	blockquote {
+		font-size: 18px;
+	}
+
+	.call-to-action-content {
+		width: auto
+	}
+
+}
