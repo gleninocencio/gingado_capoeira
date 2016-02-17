@@ -138,6 +138,7 @@
 	.flexnav ul li a{
 		background-color:rgba(192,192,192,0.5);
 		font-size: 14px;
+		font-weight: 500;
 		padding:12px 22px;
 		display:block;
 		width:200px;
