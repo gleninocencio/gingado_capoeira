@@ -116,7 +116,7 @@
 	}
 
 	.flexnav li:hover>.touch-button::after,.sm-screen .submenu-open::after{
-		border-color:#fff
+		border-color:#A8282F;
 		}
 
 	.flexnav ul{
