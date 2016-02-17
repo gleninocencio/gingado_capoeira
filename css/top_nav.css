@@ -212,9 +212,9 @@
 			-o-transform:rotate(0);
 			transform:rotate(0);
 			border-left:0;
-			border-top:2px solid #7a8189;
-			border-bottom:2px solid #7a8189;
-			height:2px;width:12px;top:22px;
+			border-top:3px solid #7a8189;
+			border-bottom:3px solid #7a8189;
+			height:4px;width:12px;top:22px;
 		}
 
 		.menu-button::after{
