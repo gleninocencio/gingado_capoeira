@@ -1,5 +1,9 @@
 @media all and (max-width:800px) {
 
+	.flexnav li a {
+		color: #fff;
+	}
+
 	
 	.hero-image {
 		text-align: center;
