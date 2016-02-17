@@ -80,8 +80,13 @@
 		text-align: center
 	}
 
+	.footer-content {
+		float: none;
+	}
+
 	.social-media-footer {
 		padding-right: 0px !important;
+		float: none;
 	}
 
 }
