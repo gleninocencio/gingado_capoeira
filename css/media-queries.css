@@ -31,7 +31,7 @@
 	.btn-large {
 		/*margin-left: 140px;*/
 		top: 0; bottom:0; left: 0; right:0;
-    margin: auto;
+    	margin: auto;
 	}
 
 	.icons-home-section {
@@ -41,11 +41,11 @@
 
 	.testimonial-home-section {
 		height: 350px;
+		text-align: center;
 	}
 
 	.jeremy-test-pic {
 		width: 175px;
-		padding-left: 65px;
 	}
 
 	.bq-jeremy {
@@ -60,7 +60,7 @@
 
 	.jeremy_title {
 		line-height: 0.5;
-		text-align: center;
+		text-align: right;
 	}
 
 	blockquote {
