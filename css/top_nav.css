@@ -174,7 +174,8 @@
 			overflow:hidden;max-height:0
 			}
 		.flexnav.show{
-			overflow:visible;max-height:3000px
+			overflow:visible;
+			/*max-height:3000px*/
 		}
 		.flexnav li{float:none}
 		.flexnav ul li a{
