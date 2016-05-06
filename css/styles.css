@@ -505,7 +505,7 @@ blockquote {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 .adult-class-section {
-  height: 350px;
+  height: auto;
   background-color: #363A60;
   text-align: center;
 }
@@ -521,7 +521,7 @@ blockquote {
   display: inline-block;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 50px;
+  margin-top: 25px;
 }
 
 .adult-text {
@@ -529,16 +529,23 @@ blockquote {
   width: 400px;
 }
 
+.adult-class-content {
+  width: 600px;
+  margin: 0 auto;
+  padding: 50px;
+}
+
 .class-description {
-  padding-top: 50px;
+  padding-top: 25px;
   display: inline-block;
   vertical-align: top;
   padding-left: 100px;
   text-align: left;
+  padding-bottom: 25px;
 }
 
 .youth-class-section {
-  height: 350px;
+  height: auto;
   background-color: #E6E4E6;
   text-align: center;
 }
@@ -574,7 +581,7 @@ blockquote {
 }
 
 .summer-camp-section {
-  height: 350px;
+  height: auto;
   background-color: #B0AFB0;
   text-align: center;
 }
@@ -639,7 +646,7 @@ blockquote {
   color: #FFFFFF;
 }
 
-.adult-class-content {
+.adult-class-content-section {
   width: 600px;
   margin: 0 auto;
   padding: 50px;
