@@ -324,7 +324,7 @@ blockquote {
 
 
 .mission-statement-section {
-  height: 325px;
+  height: auto;
   background-color: #363A60;
   color: white;
 }
@@ -334,7 +334,7 @@ blockquote {
 }
 
 .mission-statement-section {
-  height: 500px;
+  height: auto;
 }
 
 .about-mission-statement-content, .about-our-story-content {
@@ -344,7 +344,7 @@ blockquote {
 }
 
 .about-our-story {
-  height: 450px;
+  height: auto;
   background-color: rgba(155,155,155,0.15);
 }
 
