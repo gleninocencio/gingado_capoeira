@@ -362,10 +362,10 @@ blockquote {
 }
 
 .history-content-section {
-  height: 225px;
+  height: auto;
   background-color: #9B9B9B;
   color: white;
-  padding-top: 15px;
+  padding-top: 50px;
 }
 
 .history-subtitle-text {
@@ -385,7 +385,7 @@ blockquote {
 }
 
 .history-current-section {
-  height: 225px;
+  height: auto;
   background-color: #FFF;
   color: white;
   padding-top: 50px;
