@@ -635,6 +635,13 @@ blockquote {
   width: 600px;
 }*/
 
+
+.adult-class-text {
+  font-size: 21px;
+  text-align: left;
+  color: #FFFFFF;
+}
+
 .adult-class-content {
   width: 600px;
   margin: 0 auto;
