@@ -41,9 +41,9 @@ p {
 }
 
 h1, h2, h3, h4, h5 {
-  font-family: "DinPro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 1.2;
-  font-weight: 500;
+  font-weight: 400;
 }
 
 h1 {
@@ -109,6 +109,62 @@ blockquote {
 .relative {
   position: relative;
 }
+
+.red-box {
+  width: 75px;
+  height: 10px;
+  background-color: #A8282F;
+  margin-bottom: 10px;
+}
+
+.hero-title {
+  position: relative;
+  color: #A8282F;
+  width: 800px;
+  padding: 10px;
+  top: 100px;
+  background-color: rgba(255, 255, 255, 0.5);
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-transform: uppercase;
+}
+
+.page-title {
+  color: #363A60;
+  text-transform: uppercase;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.class-info {
+  font-size: 14px;
+  line-height: 0.5;
+  text-align: left;
+  display: inline-block;
+  vertical-align: top;
+  padding-left: 50px;
+  width: 200px;
+}
+
+.classes-subtitle {
+  color: #363A60;
+  font-size: 18px;
+
+}
+
+.classes-link {
+  color: #363A60;
+  font-size: 14px;
+}
+
+.classes-description {
+  padding: 50px;
+  text-align: center;
+
+}
+
 
 /* Top Navigation
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -253,7 +309,630 @@ blockquote {
   color: #FFF !important;
 }
 
+/* About Page
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.about-hero-section {
+  background: #363A60 url("../images/about-pic.png") no-repeat;
+  background-size: 100%;
+  height: 300px;
+  /*background-size: cover;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover; */
+}
 
+
+.mission-statement-section {
+  height: 325px;
+  background-color: #363A60;
+  color: white;
+}
+
+.mission-text {
+  font-size: 21px;
+}
+
+.mission-statement-section {
+  height: 500px;
+}
+
+.about-mission-statement-content, .about-our-story-content {
+  width: 600px;
+  margin: 0 auto;
+  padding: 50px;
+}
+
+.about-our-story {
+  height: 450px;
+  background-color: rgba(155,155,155,0.15);
+}
+
+/* History Page
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.history-hero-section {
+  background: #9B9B9B url("../images/history.png") no-repeat;
+  background-size: 100%;
+  height: 300px;
+  /*background-size: cover;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover; */
+}
+
+.history-content-section {
+  height: 225px;
+  background-color: #9B9B9B;
+  color: white;
+  padding-top: 15px;
+}
+
+.history-subtitle-text {
+  padding-top: 60px;
+  text-align: right;
+}
+
+.history-content {
+  padding-left: 50px;
+}
+
+.history-text {
+  width: 500px;
+  /*margin: 0 auto;
+  padding: 50px;*/
+
+}
+
+.history-current-section {
+  height: 225px;
+  background-color: #FFF;
+  color: white;
+  padding-top: 50px;
+}
+
+.history-current-subtitle-text {
+  color: #000000;
+  text-align: right;
+  padding-top: 50px;
+}
+
+.history-current-text {
+  color: #000000;
+  width: 500px;
+}
+
+
+/* Instructors
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+
+.top-section-instructors {
+  height: 100px;
+}
+
+
+.instructor-header {
+  height: 150px;
+}
+
+.instructor-title {
+  color: #363A60;
+  text-transform: uppercase;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.mestre-section {
+  height: 400px;
+  background-color: #363A60;
+
+}
+
+.instructor-subtitle {
+  color: #FFF;
+}
+
+.instructor-description {
+  padding-top: 50px;
+  display: inline-block;
+  vertical-align: top;
+  padding-left: 100px;
+  text-align: left;
+}
+
+.mestre-pic {
+  width: 300px;
+  display: block;
+
+}
+
+.mestre-text {
+  color: #FFF;
+  width: 400px;
+}
+
+.all-instructor-content {
+  text-align: center;
+  padding-top: 25px;
+}
+
+.red-box-instructor {
+  width: 75px;
+  height: 10px;
+  background-color: #A8282F;
+  margin-bottom: 10px;
+}
+
+.instructor-image-mestre {
+  width: 250px;
+  text-align: center;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
+}
+
+.instructor-image-jeremy {
+  width: 250px;
+  text-align: center;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
+}
+
+
+.instructor-image-jeremy img {
+  width: 218px;
+  padding-left: 50px;
+}
+
+
+
+.jeremy-section {
+  height: 350px;
+  background-color: #9B9B9B;
+  background-image: url("../images/jeremy.png") no-repeat;
+}
+
+.jeremy-pic {
+ 
+  display: block;
+}
+
+/* Programs
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.adult-class-section {
+  height: 350px;
+  background-color: #363A60;
+  text-align: center;
+}
+
+.adult-class-image  {
+  width: 250px;
+  padding-left: 50px;
+  display: inline-block;
+}
+
+.class-image {
+  text-align: center;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+}
+
+.adult-text {
+  color: #fff;
+  width: 400px;
+}
+
+.class-description {
+  padding-top: 50px;
+  display: inline-block;
+  vertical-align: top;
+  padding-left: 100px;
+  text-align: left;
+}
+
+.youth-class-section {
+  height: 350px;
+  background-color: #E6E4E6;
+  text-align: center;
+}
+
+.class-subtitle {
+  color: #fff;
+}
+
+.adult-class-content {
+  text-align: center;
+  display: inline;
+}
+
+.youth-class-content {
+  display: inline;
+}
+
+.youth-class-image {
+  text-align: center;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+}
+
+.youth-text {
+  color: #000000;
+  width: 400px;
+}
+
+.youth-class-subtitle {
+  color: #000000;
+}
+
+.summer-camp-section {
+  height: 350px;
+  background-color: #B0AFB0;
+  text-align: center;
+}
+
+.btn-large-youth {
+  border: 1px solid #000000;
+  padding: 10px;
+  color: #000000;
+}
+
+ .btn-large-youth:hover {
+  border: 1px solid #A8282F;
+  padding: 10px;
+  color: black;
+}
+
+
+/* Adult Class
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.adult-class-hero-section {
+  background: #363A60 url("../images/adult-class.png") no-repeat;
+  background-size: 100%;
+  height: 300px;
+  /*background-size: cover;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover; */
+
+}
+
+.adult-hero-title {
+  position: relative;
+  color: #A8282F;
+  width: 400px;
+  padding: 10px;
+  top: 100px;
+  background-color: rgba(255, 255, 255, 0.5);
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-transform: uppercase;
+
+}
+
+
+.class-content-section {
+  height: 325px;
+  background-color: #363A60;
+  color: white;
+}
+
+.adult-class-text {
+  font-size: 21px;
+  text-align: left;
+}
+
+.missin-statement-section {
+  height: 500px;
+}
+
+.adult-class-content {
+  width: 600px;
+  margin: 0 auto;
+  padding: 50px;
+}
+
+.red-box-class {
+  width: 75px;
+  height: 5px;
+  background-color: #A8282F;
+  margin-bottom: 10px;
+
+}
+
+/* Youth Expressions
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+
+.youth-class-hero-section {
+  background: #363A60 url("../images/youth-expressions.png") no-repeat;
+  background-size: 100%;
+  height: 300px;
+  background-position: 0px -50px;
+  /*background-size: cover;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover; */
+
+}
+
+.youth-hero-title {
+  position: relative;
+  color: #A8282F;
+  width: 600px;
+  padding: 10px;
+  top: 100px;
+  background-color: rgba(255, 255, 255, 0.5);
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-transform: uppercase;
+
+}
+
+.youth-class-content-section {
+  height: 325px;
+  background-color: #E6E4E6;
+  color: #000000;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.youth-expressions-content {
+  width: 600px;
+  margin: 0 auto;
+  padding: 50px;
+  display: inline-block;
+}
+
+.youth-class-text {
+  font-size: 21px;
+  text-align: left;
+}
+
+.youth-class-logo {
+  display: inline-block;
+}
+
+.youth-class-logo img {
+  width: 200px;
+}
+
+/* Summer Camp
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.summer-camp-hero-section {
+  background: #363A60 url("../images/summer-camp-hero.png") no-repeat;
+  background-size: 100%;
+  height: 300px;
+  background-position: 0px -93px;
+  /*background-size: cover;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover; */
+
+}
+
+.summer-hero-title {
+  position: relative;
+  color: #A8282F;
+  width: 400px;
+  padding: 10px;
+  top: 100px;
+  background-color: rgba(255, 255, 255, 0.5);
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-transform: uppercase;
+
+}
+
+.summer-camp-content-section {
+  height: 325px;
+  background-color: #A8282F;
+  color: #000000;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.summer-camp-content {
+  width: 600px;
+  margin: 0 auto;
+  padding: 50px;
+  display: inline-block;
+}
+
+.summer-camp-text {
+  font-size: 21px;
+  text-align: left;
+  color: #FFFFFF;
+}
+
+.white-box {
+  width: 75px;
+  height: 10px;
+  background-color: #FFFFFF;
+  margin-bottom: 10px;
+}
+
+/* Locations
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.locations-header {
+  height: 150px;
+}
+
+.locations-title {
+  color: #363A60;
+  text-transform: uppercase;
+  text-align: center;
+  padding-top: 50px;
+}
+
+
+
+.location-subtitle {
+  color: #363A60;
+}
+
+.location-description {
+  padding-top: 20px;
+  display: inline-block;
+  vertical-align: top;
+  padding-left: 160px;
+  text-align: left;
+}
+
+
+
+.location-text {
+  width: 400px;
+}
+
+.location-content {
+  text-align: center;
+  /*padding-top: 25px;*/
+}
+
+
+
+.san-fran-image {
+  width: 250px;
+  text-align: center;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
+}
+
+/* Contact
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.contact-header {
+  height: 150px;
+}
+
+.contact-title {
+  color: #363A60;
+  text-transform: uppercase;
+  text-align: center;
+  padding-top: 50px;
+}
+
+
+
+
+
+
+
+.main-content-form {
+  /*background-color: #a8b6bf;*/
+}
+
+.form-box {
+  background-color: #363A60;
+  width: 600px;
+  height: 500px;
+  display: inline-block;
+  /*margin-left: 31% !important;*/
+  /*margin-top: 5%;*/
+}
+
+.red-box-contact {
+  width: 75px;
+  height: 10px;
+  background-color: #A8282F;
+  margin-bottom: 10px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@media(max-width: 550px) {
+  .form-box {
+    margin-left: 0% !important;
+    margin- : 0%;
+    height: 100%
+  }
+
+  
+}
+
+.form-greeting {
+  padding: 10px;
+  /*text-align: center;*/
+  color: #FFFFFF;
+  padding-left: 30px;
+  padding-top: 25px;
+}
+
+.contact-form {
+  padding: 5px 30px 0 30px;
+}
+
+.contact--section {
+  /*background-color: #a8b6bf;*/
+  height: auto;
+  width: 100%;
+  text-align: center;
+  padding-bottom: 25px;
+} 
+
+input, 
+textarea {
+  border: 1px solid #000;
+  display: block;
+  width: 100%;
+  height: 50px;        
+}
+
+input:active, 
+textarea:active {
+  box-shadow: 0 0 0 transparent;
+  outline: none;
+} 
+
+.btn-contact {
+   color: #fff;
+   text-align: center;
+   width: 100px;
+   height: 40px;
+   background-color: #363A60;
+   border: 2px solid #FFFFFF;
+}
+
+.btn-contact:hover{
+  color: #FF0000;
+  border: 2px solid #FF0000 !important;
+  
+} 
+
+.contact-right-content {
+  display: inline-block;
+  vertical-align: top;
+  padding-left: 10px;
+  text-align: left;
+}
+
+.contact-right-content  p {
+   font-size: 14px;
+  line-height: 0.5;
+}
 
 /* Footer
 –––––––––––––––––––––––––––––––––––––––––––––––––– */

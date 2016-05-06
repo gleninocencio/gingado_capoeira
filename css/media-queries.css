@@ -4,6 +4,13 @@
 		color: #fff;
 	}
 
+	.logo {
+		width: 125px;
+	}
+
+	.top-section {
+		height: 75px;
+	}
 	
 	.hero-image {
 		text-align: center;
@@ -84,6 +91,155 @@
 		font-size: 24px;
 	}
 
+
+	/* About
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+	.about-hero-section {
+		height: 100px;
+	}
+
+	.hero-title {
+		width: 180px;
+		top: 15px;
+		font-size: 21px;
+		padding: 9px;
+	}
+
+	.mission-statement-section {
+		height: auto;
+	}
+
+	.about-mission-statement-section {
+		width: 250px;
+	}
+
+	.about-mission-statement-content, .about-our-story-content {
+		width: 275px;
+		padding: 25px;
+	}
+
+	.about-mission-statement-content h3, .about-our-story-content h3 {
+		font-size: 18px;
+
+	}
+
+	.red-box {
+		height: 5px;
+		width: 50px;
+	}
+
+	.mission-text, .our-story-text {
+		font-size: 14px;
+	}
+
+	.about-our-story {
+		height: auto;
+	}
+
+	/* History
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+	.history-hero-section {
+    	background-size: 100%;
+    	height: 105px;
+	}
+
+	.history-content-section {
+	    height: auto;
+	    padding-top: 15px; 
+	}
+
+	.history-subtitle-text {
+	    padding-top: 15px;
+	    text-align: right;
+	}
+
+	.history-subtitle h4 {
+		font-size: 18px;
+		text-align: left;
+		padding-left: 50px;
+	}
+
+	.history-text, .history-current-text {
+		font-size: 14px;
+		width: 275px;
+	}
+
+	.history-current-section {
+    	padding-top: 15px; 
+    	height: auto;
+	}
+
+	.history-current-subtitle-text {
+	    padding-top: 15px;
+	}
+
+/* Instructors
+–––––––––––––––––––––––––––––––––––––––––––––––––– */	
+	
+	.top-section-instructors {
+		height: 70px;
+
+	}
+
+	.instructor-header {
+		height: 50px;
+	}
+
+	.page-title {
+		padding-top: 10px;
+		font-size: 21px;
+	}
+
+	.red-box-instructor {
+		width: 50px;
+		height: 5px;
+		margin-left: 100px;
+	}
+
+	.all-instructor-content {
+		padding-top: 0px;
+	}
+
+	.instructor-image-mestre img {
+		width: 150px;
+	}
+
+	.instructor-subtitle {
+		font-size: 18px;
+	}
+
+	.instructor-description {
+		padding-top: 0px;
+		padding-left: 0px;
+		text-align: center;
+	}
+
+	.mestre-text {
+		font-size: 14px;
+		width: 250px;
+	}
+
+	.jeremy-section {
+		height: 400px;
+	}
+
+	.instructor-image-jeremy img {
+		width: 125px;
+		padding-left: 0px;
+	}
+
+/* Programs
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+	
+
+
+
+
+
+	
+/* Footer
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 	.footer {
 		text-align: center
 	}
@@ -97,6 +253,10 @@
 		float: none;
 	}
 
-	
+	.social-media-icon {
+		width: 15px !important;
+	}
+
+
 
 }
