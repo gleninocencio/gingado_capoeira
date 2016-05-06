@@ -198,7 +198,7 @@
 	}
 
 	.all-instructor-content {
-		padding-top: 0px;
+		padding-top: 15px;
 	}
 
 	.instructor-image-mestre img {
@@ -207,6 +207,10 @@
 
 	.instructor-subtitle {
 		font-size: 18px;
+	}
+
+	.mestre-section {
+		height: auto;
 	}
 
 	.instructor-description {
@@ -221,7 +225,7 @@
 	}
 
 	.jeremy-section {
-		height: 400px;
+		height: auto;
 	}
 
 	.instructor-image-jeremy img {
@@ -231,7 +235,7 @@
 
 /* Programs
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-	
+	 
 
 
 
@@ -260,3 +264,8 @@
 
 
 }
+
+
+
+
+
