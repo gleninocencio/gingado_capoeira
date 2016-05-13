@@ -252,7 +252,7 @@
 		
 @media all and (max-width:800px) {
 		.right-nav {
-		  margin-top: 0px !important;
+		  margin-top: none;
 		}
 
 

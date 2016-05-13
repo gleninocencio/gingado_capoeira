@@ -288,7 +288,104 @@
 	}
 
 
+/* Adult class
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+	.adult-class-hero-section {
+		height: 100px;
+	}
 
+	.adult-hero-title {
+		width: 136px;
+		top: 15px;
+		font-size: 21px;
+		padding: 9px;
+	}
+
+	.class-content-section {
+		height: auto;
+		padding-top: 0px;
+	}
+
+	.adult-class-content-section {
+		width: auto;
+	}
+
+	.adult-class-text {
+		font-size: 14px;
+	}
+
+
+	.red-box {
+		height: 5px;
+		width: 50px;
+	}
+
+	.class-info {
+		padding-left: 0px;
+		display: block;
+	}
+
+/* Youth Expressions
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+	.youth-class-hero-section {
+		height: 100px;
+		background-position: 0px 0px;
+	}
+
+
+	.youth-class-content-section {
+		height: auto;
+		padding-top: 0px;
+	}
+
+	.youth-class-content-section {
+		width: auto;
+	}
+
+	.youth-class-logo img {
+		width: 125px;
+		padding-top: 15px;
+	}
+
+	.youth-hero-title {
+	  position: relative;
+	  color: #A8282F;
+	  width: 140px;
+	  padding: 10px;
+	  top: 10px;
+	  font-size: 21px;
+	  background-color: rgba(255, 255, 255, 0.5);
+	  text-align: center;
+	  margin-left: auto;
+	  margin-right: auto;
+	  display: block;
+	  text-transform: uppercase;
+
+	}
+
+	.youth-expressions-content {
+		width: auto;
+		height: auto;
+		padding-left: 50px;
+		padding-right: 50px;
+		padding-top: 25px;
+		padding-bottom: 15px;
+	}
+
+	.youth-class-text {
+		font-size: 14px;
+	}
+
+
+	.red-box {
+		height: 5px;
+		width: 50px;
+	}
+
+	.class-info {
+		padding-left: 0px;
+		display: block;
+	}
 
 
 /* Footer
