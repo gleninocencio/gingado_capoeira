@@ -457,7 +457,7 @@ blockquote {
   padding-top: 25px;
 }
 
-.red-box-instructor {
+.red-box-center {
   width: 75px;
   height: 10px;
   background-color: #A8282F;
@@ -514,6 +514,13 @@ blockquote {
   width: 250px;
   padding-left: 50px;
   display: inline-block;
+}
+
+.red-box-center-programs {
+  width: 75px;
+  height: 10px;
+  background-color: #A8282F;
+  margin-bottom: 10px;
 }
 
 .class-image {
