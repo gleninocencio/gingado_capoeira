@@ -11,18 +11,21 @@
 	.top-section {
 		height: 75px;
 	}
+
+	.home-hero {
+		height: auto;
+	}
 	
 	.hero-image {
 		text-align: center;
 	}
 
 	.hero-pic {
-		width: 350px;
+		width: 250px;
+		padding-top: 20px;
 	}
 
-	.hero-box {
-		height: 650px;
-	}
+
 
 	.home-hero-caption {
 		padding-top: 0px !important;
@@ -30,12 +33,12 @@
 	}
 
 	.home-title {
-		font-size: 48px;
+		font-size: 36px;
 		text-align: center;
 	}
 
 	.home-subtitle {
-		font-size: 24px;
+		font-size: 21px;
 		text-align: center;
 	}
 
@@ -45,13 +48,17 @@
     	margin: auto;
 	}
 
+	.icons-home {
+		padding-bottom: 0px;
+	}
+
 	.icons-home-section {
 		margin-left: 0px !important;
 		margin-right: 0px !important;
 	}
 
 	.testimonial-home-section {
-		height: 350px;
+		height: auto;
 		text-align: center;
 	}
 
@@ -60,13 +67,13 @@
 	}
 
 	.jeremy-test-pic {
-		width: 175px;
+		width: 150px;
 	}
 
 	.bq-jeremy {
 		padding-top: 0px !important;
-		width: 275px;
-		margin-left: 0px !important;
+		width: 282px;
+		margin-left: auto;
 	}
 
 	.bqstart {
@@ -254,10 +261,9 @@
 		width: 200px;
 	}
 
-	.class-description {
+	.class-description, .youth-class-section {
 		padding-left: 0px;
 		text-align: center;
-		display: block;
 
 	}
 
@@ -386,6 +392,162 @@
 		padding-left: 0px;
 		display: block;
 	}
+
+
+/* Summer Camp
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+	.summer-camp-hero-section {
+		height: 100px;
+		background-position: 0px 0px;
+	}
+
+	.summer-class-hero-title {
+		top: 15px;
+		font-size: 21px;
+		padding: 9px;
+	}
+
+	.summer-camp-content-section {
+		height: auto;
+		width: auto;
+		padding-top: 0px;
+	}
+
+	.summer-camp-text {
+		font-size: 14px;
+	}
+
+
+
+	.summer-hero-title {
+	  position: relative;
+	  color: #A8282F;
+	  width: 161px;
+	  padding: 10px;
+	  font-size: 21px;
+	  top: 15px;
+	  background-color: rgba(255, 255, 255, 0.5);
+	  text-align: center;
+	  display: block;
+	  text-transform: uppercase;
+
+	}
+
+	.summer-camp-content {
+		width: auto;
+		height: auto;
+		padding-left: 50px;
+		padding-right: 50px;
+		padding-top: 25px;
+		padding-bottom: 15px;
+	}
+
+
+	.white-box {
+		height: 5px;
+		width: 50px;
+	}
+
+	.class-info {
+		padding-left: 0px;
+		display: block;
+	}
+
+/* Locations
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+	.locations-title {
+		padding-top: 9px;
+		font-size: 21px;
+	}
+
+	.san-fran-image {
+	    width: auto;
+	    text-align: center;
+	    margin-top: 0px;
+	}
+
+	.san-fran-image img{
+	    width: 200px;
+	  
+	}
+
+	.location-subtitle {
+		font-size: 18px;
+	}
+
+	.location-description {
+		padding-left: 0px;
+		text-align: center;
+
+	}
+
+	.location-text {
+		font-size: 14px;
+		text-align: center;
+		padding-left: 50px;
+		padding-right: 50px;
+		width: auto;
+		height: auto;
+	}
+
+	.red-box-locations {
+	  width: 50px;
+	  height: 5px;
+	  background-color: #A8282F;
+	  margin-bottom: 10px;
+	  margin-left: auto;
+	  margin-right: auto;
+	}
+
+/* Contact
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+	.contact-title {
+		padding-top: 9px;
+		font-size: 21px;
+	}
+
+	.contact-header {
+		height: auto;
+	}
+
+	.form-box {
+		width: auto;
+	}
+
+	.form-greeting h4, .contact-right-content h4 {
+		font-size: 18px;
+	}
+
+	input, textarea {
+		height: auto;
+		font-size: 14px;        
+	}
+
+	.red-box-contact {
+		width: 50px;
+	  	height: 5px;
+	  	background-color: #A8282F;
+	  	margin-bottom: 10px;
+	 	 margin-left: auto;
+	  	margin-right: auto;
+
+	}
+
+	.btn-contact {
+		font-size: 14px;
+		padding: 10px;
+		width: auto;
+		height: auto;
+	}
+
+	.contact-right-content {
+		text-align: center;
+		padding-top: 10px;
+	}
+
+
+
 
 
 /* Footer
