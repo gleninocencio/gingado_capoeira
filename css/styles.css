@@ -288,9 +288,9 @@ blockquote {
 .call-to-action-content {
   position: relative;
   width: 500px;
-  height: auto;
+  height: 150px;
   color: #A8282F;
-  padding: 15px;
+  padding: 10px;
   top: 100px;
   background-color: rgba(255, 255, 255, 0.5);
   text-align: center;
@@ -824,13 +824,11 @@ blockquote {
 }
 
 .red-box-locations {
-  width: 75px;
-  height: 5px;
-  background-color: #A8282F;
-  margin-bottom: 10px;
-  }
-
-
+    width: 75px;
+    height: 10px;
+    background-color: #A8282F;
+    margin-bottom: 10px;
+}
 
 .location-text {
   width: 400px;
@@ -841,14 +839,7 @@ blockquote {
   /*padding-top: 25px;*/
 }
 
-.san-fran-image {
-    width: auto;
-    text-align: center;
-    /* display: inline-block; */
-    /* margin-left: auto; */
-    /* margin-right: auto; */
-    /* margin-top: 25px; */
-}
+
 
 .san-fran-image {
   width: 250px;
@@ -951,12 +942,12 @@ textarea:active {
    width: 100px;
    height: 40px;
    background-color: #363A60;
-   border: 1px solid #FFFFFF;
+   border: 2px solid #FFFFFF;
 }
 
 .btn-contact:hover{
   color: #FF0000;
-  border: 1px solid #FF0000 !important;
+  border: 2px solid #FF0000 !important;
   
 } 
 
