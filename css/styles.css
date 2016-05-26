@@ -823,6 +823,13 @@ blockquote {
   text-align: left;
 }
 
+.red-box-locations {
+  width: 75px;
+  height: 5px;
+  background-color: #A8282F;
+  margin-bottom: 10px;
+  }
+
 
 
 .location-text {
