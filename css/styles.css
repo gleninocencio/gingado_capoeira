@@ -288,7 +288,7 @@ blockquote {
 .call-to-action-content {
   position: relative;
   width: 500px;
-  height: 150px;
+  height: auto;
   color: #A8282F;
   padding: 10px;
   top: 100px;
