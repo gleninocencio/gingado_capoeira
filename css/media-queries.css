@@ -454,6 +454,14 @@
 		display: block;
 	}
 
+
+/* Calendar
+–––––––––––––––––––––––––––––––––––––––––––––––––– */	
+	.google-calendar iframe {
+		width: 100%;
+	}
+ 
+
 /* Locations
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 	.locations-title {
