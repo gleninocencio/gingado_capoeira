@@ -1,17 +1,24 @@
 *
-* Portfolio 
-* Copyright 2015, Glen Inocencio
-* 9/1/2015
+* Grupo Gingado Capoeira 
+* Copyright 2016, Glen Inocencio
+* 1/1/2016
 *
 
 
 /* Table of contents
 ––––––––––––––––––––––––––––––––––––––––––––––––––
 - Global Elements
-- Landing Page  
-- UX/UI Design
-- Print
-- Illustration
+- Top Navigation  
+- Landing Page
+- About 
+- History
+- Instructors
+- Programs
+- Adult Class
+- Youth Expressions
+- Summer Camp
+- Class Schedule
+- Locations
 - Contact
 - Footer
 */
@@ -188,13 +195,11 @@ blockquote {
 /* Landing Page
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
-
 .hero-box {
   height: 500px;
   background-color: #363A60;
   width: 100%;
 }
-
 
 .home-hero-caption {
   padding-top: 100px;
@@ -290,7 +295,7 @@ blockquote {
   width: 500px;
   height: auto;
   color: #A8282F;
-  padding: 10px;
+  padding: 25px;
   top: 100px;
   background-color: rgba(255, 255, 255, 0.5);
   text-align: center;
@@ -311,7 +316,7 @@ blockquote {
   color: #FFF !important;
 }
 
-/* About Page
+/* About 
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .about-hero-section {
   background: #363A60 url("../images/about-pic.png") no-repeat;
@@ -350,7 +355,7 @@ blockquote {
   background-color: rgba(155,155,155,0.15);
 }
 
-/* History Page
+/* History 
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .history-hero-section {
   background: #9B9B9B url("../images/history.png") no-repeat;
@@ -383,7 +388,6 @@ blockquote {
   width: 500px;
   /*margin: 0 auto;
   padding: 50px;*/
-
 }
 
 .history-current-section {
@@ -635,9 +639,7 @@ blockquote {
   margin-right: auto;
   display: block;
   text-transform: uppercase;
-
 }
-
 
 .class-content-section {
   height: 325px;
@@ -646,8 +648,6 @@ blockquote {
   text-align: center;
   padding-top: 50px;
 }
-
-
 
 .adult-class-text {
   font-size: 21px;
@@ -666,19 +666,15 @@ blockquote {
   height: 500px;
 }
 
-
-
 .red-box-class {
   width: 75px;
   height: 5px;
   background-color: #A8282F;
   margin-bottom: 10px;
-
 }
 
 /* Youth Expressions
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-
 
 .youth-class-hero-section {
   background: #E6E4E6 url("../images/youth-expressions.png") no-repeat;
@@ -690,7 +686,6 @@ blockquote {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover; */
-
 }
 
 .youth-hero-title {
@@ -705,7 +700,6 @@ blockquote {
   margin-right: auto;
   display: block;
   text-transform: uppercase;
-
 }
 
 .youth-class-content-section {
@@ -749,7 +743,6 @@ blockquote {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover; */
-
 }
 
 .summer-hero-title {
@@ -764,7 +757,6 @@ blockquote {
   margin-right: auto;
   display: block;
   text-transform: uppercase;
-
 }
 
 .summer-camp-content-section {
@@ -795,15 +787,12 @@ blockquote {
   margin-bottom: 10px;
 }
 
-/* Calendar
+/* Class Schedule
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 .google-calendar {
   text-align: center;
 }
-
-
-
 
 /* Locations
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -849,8 +838,6 @@ blockquote {
   /*padding-top: 25px;*/
 }
 
-
-
 .san-fran-image {
   width: 250px;
   text-align: center;
@@ -873,12 +860,6 @@ blockquote {
   text-align: center;
   padding-top: 50px;
 }
-
-
-
-
-
-
 
 .main-content-form {
   /*background-color: #a8b6bf;*/
@@ -905,11 +886,9 @@ blockquote {
 @media(max-width: 550px) {
   .form-box {
     margin-left: 0% !important;
-    margin- : 0%;
+    margin: 0%;
     height: 100%
   }
-
-  
 }
 
 .form-greeting {

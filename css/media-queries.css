@@ -201,7 +201,6 @@
 	
 	.top-section-instructors {
 		height: 70px;
-
 	}
 
 	.instructor-header {
@@ -433,8 +432,6 @@
 		font-size: 14px;
 	}
 
-
-
 	.summer-hero-title {
 	  position: relative;
 	  color: #A8282F;
@@ -446,7 +443,6 @@
 	  text-align: center;
 	  display: block;
 	  text-transform: uppercase;
-
 	}
 
 	.summer-camp-content {
@@ -458,7 +454,6 @@
 		padding-bottom: 15px;
 	}
 
-
 	.white-box {
 		height: 5px;
 		width: 50px;
@@ -469,14 +464,12 @@
 		display: block;
 	}
 
-
 /* Calendar
 –––––––––––––––––––––––––––––––––––––––––––––––––– */	
 	.google-calendar iframe {
 		width: 100%;
 	}
  
-
 /* Locations
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 	.locations-title {
@@ -552,9 +545,8 @@
 	  	height: 5px;
 	  	background-color: #A8282F;
 	  	margin-bottom: 10px;
-	 	 margin-left: auto;
+	 	margin-left: auto;
 	  	margin-right: auto;
-
 	}
 
 	.btn-contact {
@@ -568,10 +560,6 @@
 		text-align: center;
 		padding-top: 10px;
 	}
-
-
-
-
 
 /* Footer
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -592,8 +580,6 @@
 	.social-media-icon {
 		width: 15px !important;
 	}
-
-
 
 }
 
