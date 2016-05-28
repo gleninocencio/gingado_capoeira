@@ -250,7 +250,7 @@ blockquote {
 }
 
 .testimonial-home-section {
-  height: 250px;
+  height: auto;
   background-color: #A8282F;
   padding: 25px;
   text-align: center;
