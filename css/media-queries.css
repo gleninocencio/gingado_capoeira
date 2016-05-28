@@ -30,8 +30,6 @@
 		padding-top: 20px;
 	}
 
-
-
 	.home-hero-caption {
 		padding-top: 0px !important;
 		text-align: center;
@@ -41,6 +39,7 @@
 	.home-title {
 		font-size: 36px;
 		text-align: center;
+		padding-top: 10px;
 	}
 
 	.home-subtitle {
@@ -81,6 +80,10 @@
 		text-align: left;
 	}
 
+	.jeremy-testimonial {
+		padding-top: 25px;
+	}
+
 	.jeremy-test-pic {
 		width: 150px;
 	}
@@ -89,6 +92,7 @@
 		padding-top: 0px !important;
 		width: 282px;
 		margin-left: auto;
+		text-align: center;
 	}
 
 	.bqstart {
@@ -97,7 +101,7 @@
 
 	.jeremy_title {
 		line-height: 0.5;
-		text-align: left;
+		text-align: center;
 	}
 
 	blockquote {
