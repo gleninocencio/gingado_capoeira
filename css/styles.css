@@ -195,10 +195,20 @@ blockquote {
 /* Landing Page
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
+.home-hero {
+  background-color: #363A60;
+  height: auto;
+}
+
+
 .hero-box {
   height: 500px;
   background-color: #363A60;
   width: 100%;
+}
+
+.hero-pic {
+  padding-top: 15px;
 }
 
 .home-hero-caption {
