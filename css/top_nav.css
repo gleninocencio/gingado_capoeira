@@ -230,11 +230,11 @@
 		.menu-button::after{
 			display:block;
 			width:12px;
-			height:1px;
+			height:2px;
 			content:'';position:absolute;
 			background:#7a8189;
 			right:21px;
-			top:28px
+			top:29px;
 			}
 
 		.flexnav ul ul li a{
