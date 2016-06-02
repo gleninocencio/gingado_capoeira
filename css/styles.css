@@ -184,7 +184,7 @@ blockquote {
   margin-top: -70px;
   margin-left: auto;  
   margin-right: auto;
-  width: 617px;
+  width: 617px !important;
 }
 
 .logo {
@@ -667,7 +667,7 @@ blockquote {
 }
 
 .class-content-section {
-  height: 325px;
+  height: auto;
   background-color: #363A60;
   color: white;
   text-align: center;
@@ -728,7 +728,7 @@ blockquote {
 }
 
 .youth-class-content-section {
-  height: 325px;
+  height: auto;
   background-color: #E6E4E6;
   color: #000000;
   text-align: center;
@@ -785,7 +785,7 @@ blockquote {
 }
 
 .summer-camp-content-section {
-  height: 325px;
+  height: auto;
   background-color: #A8282F;
   color: #000000;
   text-align: center;
