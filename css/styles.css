@@ -748,11 +748,15 @@ blockquote {
 
 .youth-class-logo {
   display: inline-block;
+  vertical-align: top;
 }
 
 .youth-class-logo img {
   width: 200px;
+  padding-top: 50px;
 }
+
+
 
 /* Summer Camp
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
