@@ -400,7 +400,6 @@ blockquote {
 }
 
 .history-subtitle-text {
-  padding-top: 60px;
   text-align: right;
   vertical-align: top;
 }
@@ -425,7 +424,6 @@ blockquote {
 .history-current-subtitle-text {
   color: #000000;
   text-align: right;
-  padding-top: 50px;
 }
 
 .history-current-text {
