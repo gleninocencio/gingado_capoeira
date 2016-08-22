@@ -537,6 +537,7 @@ blockquote {
   height: auto;
   background-color: #363A60;
   text-align: center;
+  padding-bottom: 25px;
 }
 
 .adult-class-image  {
@@ -584,6 +585,7 @@ blockquote {
   height: auto;
   background-color: #E6E4E6;
   text-align: center;
+  padding-bottom: 25px;
 }
 
 .class-subtitle {
@@ -620,6 +622,7 @@ blockquote {
   height: auto;
   background-color: #B0AFB0;
   text-align: center;
+  padding-bottom: 25px;
 }
 
 .btn-large-youth {
