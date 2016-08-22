@@ -402,6 +402,7 @@ blockquote {
 .history-subtitle-text {
   padding-top: 60px;
   text-align: right;
+  vertical-align: top;
 }
 
 .history-content {
