@@ -454,7 +454,7 @@ blockquote {
 }
 
 .mestre-section {
-  height: 400px;
+  height: auto;
   background-color: #363A60;
 
 }
@@ -479,7 +479,7 @@ blockquote {
 
 .mestre-text {
   color: #FFF;
-  width: 400px;
+  width: 500px;
 }
 
 .all-instructor-content {
@@ -521,7 +521,7 @@ blockquote {
 
 
 .jeremy-section {
-  height: 350px;
+  height: auto;
   background-color: #9B9B9B;
   background-image: url("../images/jeremy.png") no-repeat;
 }
