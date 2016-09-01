@@ -760,7 +760,7 @@ blockquote {
 }
 
 .youth-list {
-  display: block;
+  display: inline-block;
 }
 
 
