@@ -432,6 +432,10 @@ blockquote {
   width: 500px;
 }
 
+.our-story-text ul {
+  display: block;
+}
+
 .bold-story-text {
   font-weight: 700;
 }
