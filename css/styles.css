@@ -664,6 +664,7 @@ blockquote {
 }
 
 
+
 /* Adult Class
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
@@ -788,6 +789,15 @@ blockquote {
   display: inline-block;
 }
 
+.youth-testimonial-section {
+  background-color: #363A60;
+}
+
+.youth-testimonial-text {
+  margin-right: 10px;
+  padding: 25px;
+  color: #000000;
+}
 
 
 /* Summer Camp
