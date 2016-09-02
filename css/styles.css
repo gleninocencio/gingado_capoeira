@@ -368,10 +368,20 @@ blockquote {
   height: auto;
 }
 
-.about-mission-statement-content, .about-our-story-content {
+.about-mission-statement-content {
   width: 600px;
   margin: 0 auto;
   padding: 50px;
+}
+
+.about-our-story-content-first-column {
+  width: 300px;
+  background-color: #E6E4E6;
+}
+
+.about-our-story-content-second-column {
+  width: 300px;
+  background-color: #E6E4E6;
 }
 
 .about-our-story {
