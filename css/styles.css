@@ -374,14 +374,20 @@ blockquote {
   padding: 50px;
 }
 
+.about-our-story1 {
+  background-color: yellow;
+}
+
 .about-our-story-content-first-column {
   width: 300px;
-  background-color: #E6E4E6;
+  margin: 0 auto;
+  padding: 50px;
 }
 
 .about-our-story-content-second-column {
   width: 300px;
-  background-color: #E6E4E6;
+  margin: 0 auto;
+  padding: 50px;
 }
 
 .about-our-story {
