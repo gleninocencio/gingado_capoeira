@@ -432,6 +432,10 @@ blockquote {
   width: 500px;
 }
 
+.bold-story-text {
+  font-weight: 700;
+}
+
 
 /* Instructors
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
