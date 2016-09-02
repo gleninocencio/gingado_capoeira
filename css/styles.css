@@ -374,6 +374,9 @@ blockquote {
   padding: 50px;
 }
 
+.about-our-story-first-column {
+  background-color: #E6E4E6;
+}
 
 .about-our-story-content-first-column-content {
   width: 300px;
@@ -385,10 +388,6 @@ blockquote {
   width: 600px;
   margin: 0 auto;
   padding: 50px;
-}
-
-.about-our-story-second-column {
-  background-color: #E6E4E6;
 }
 
 .about-our-story {
