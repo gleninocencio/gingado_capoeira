@@ -192,6 +192,10 @@ blockquote {
   left:0;
 }
 
+.seven.columns {
+    width: 100% !important;
+}
+
 /* Landing Page
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
