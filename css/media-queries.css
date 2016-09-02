@@ -418,7 +418,7 @@
 
 	.youth-testimonial-text {
 	  margin-right: 10px;
-	  padding: 25px;
+	  padding: 0px !important;
 	  color: #FFFFFF;
 	  font-size: 14px;
 	}
