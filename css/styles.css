@@ -374,17 +374,17 @@ blockquote {
   padding: 50px;
 }
 
-.about-our-story1 {
-  background-color: yellow;
+.about-our-story-first-column {
+  background-color: #9B9B9B;
 }
 
-.about-our-story-content-first-column {
+.about-our-story-content-first-column-content {
   width: 300px;
   margin: 0 auto;
   padding: 50px;
 }
 
-.about-our-story-content-second-column {
+.about-our-story-content-second-column-content {
   width: 300px;
   margin: 0 auto;
   padding: 50px;
