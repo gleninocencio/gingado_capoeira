@@ -29,15 +29,6 @@
 		width: 250px;
 		padding-top: 20px;
 	}
-		
-	.hero-pic {
-		width: 350px;
-		padding-left: 50px;
-	}
-
-	.hero-box {
-		height: 650px;
-	}
 
 	.home-hero-caption {
 		padding-top: 0px !important;
@@ -53,16 +44,6 @@
 
 	.home-subtitle {
 		font-size: 21px;
-
-	}
-
-	.home-title {
-		font-size: 48px;
-		text-align: center;
-	}
-
-	.home-subtitle {
-		font-size: 24px;
 		text-align: center;
 	}
 
@@ -82,8 +63,7 @@
 	}
 
 	.icon-text {
-	font-size: 14px;
-    margin: auto;
+		font-size: 14px;
 	}
 
 	.icons-home-section {
@@ -106,13 +86,6 @@
 
 	.jeremy-test-pic {
 		width: 150px;
-
-		height: 350px;
-	}
-
-	.jeremy-test-pic {
-		width: 175px;
-		padding-left: 65px;
 	}
 
 	.bq-jeremy {
@@ -120,8 +93,6 @@
 		width: 282px;
 		margin-left: auto;
 		text-align: center;
-		width: 300px;
-		margin-left: 0px !important;
 	}
 
 	.bqstart {
@@ -146,13 +117,6 @@
 		font-size: 24px;
 	}
 
-	/* Navigation
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-	.right-nav {
-	  margin-top: -70px;
-	  width: 100%;
-
-	}
 
 	/* About
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -640,7 +604,6 @@
 	}
 
 }
-
 
 
 
