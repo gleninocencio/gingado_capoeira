@@ -182,9 +182,10 @@ blockquote {
 }
 
 .right-nav {
-  margin-top: -70px;
+  margin-top: 25px;
   margin-left: auto;  
   margin-right: auto;
+  float: right;
 }
 
 .logo {
@@ -193,9 +194,6 @@ blockquote {
   left:0;
 }
 
-.seven.columns {
-    width: 100% !important;
-}
 
 /* Landing Page
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -796,6 +794,7 @@ blockquote {
 
 .youth-testimonial-section {
   background-color: #363A60;
+  width: 100%;
 }
 
 .youth-testimonial-text {
