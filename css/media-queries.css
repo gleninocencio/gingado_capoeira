@@ -516,6 +516,7 @@
 	.location-description {
 		padding-left: 0px;
 		text-align: center;
+		display: block;
 
 	}
 
