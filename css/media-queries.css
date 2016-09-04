@@ -1,6 +1,5 @@
 @media all and (max-width:800px) {
 
-<<<<<<< HEAD
 	.flexnav li a {
 		color: #fff;
 	}
@@ -29,7 +28,8 @@
 	.hero-pic {
 		width: 250px;
 		padding-top: 20px;
-=======
+	}
+		
 	.hero-pic {
 		width: 350px;
 		padding-left: 50px;
@@ -37,13 +37,11 @@
 
 	.hero-box {
 		height: 650px;
->>>>>>> 1617e922f3a3e1dd548a366bcabbe2b53f594f8b
 	}
 
 	.home-hero-caption {
 		padding-top: 0px !important;
 		text-align: center;
-<<<<<<< HEAD
 		padding-bottom: 25px;
 	}
 
@@ -55,7 +53,7 @@
 
 	.home-subtitle {
 		font-size: 21px;
-=======
+
 	}
 
 	.home-title {
@@ -65,14 +63,12 @@
 
 	.home-subtitle {
 		font-size: 24px;
->>>>>>> 1617e922f3a3e1dd548a366bcabbe2b53f594f8b
 		text-align: center;
 	}
 
 	.btn-large {
 		/*margin-left: 140px;*/
 		top: 0; bottom:0; left: 0; right:0;
-<<<<<<< HEAD
     	margin: auto;
 	}
 
@@ -86,10 +82,8 @@
 	}
 
 	.icon-text {
-		font-size: 14px;
-=======
+	font-size: 14px;
     margin: auto;
->>>>>>> 1617e922f3a3e1dd548a366bcabbe2b53f594f8b
 	}
 
 	.icons-home-section {
@@ -98,7 +92,6 @@
 	}
 
 	.testimonial-home-section {
-<<<<<<< HEAD
 		height: auto;
 		text-align: center;
 	}
@@ -113,26 +106,22 @@
 
 	.jeremy-test-pic {
 		width: 150px;
-=======
+
 		height: 350px;
 	}
 
 	.jeremy-test-pic {
 		width: 175px;
 		padding-left: 65px;
->>>>>>> 1617e922f3a3e1dd548a366bcabbe2b53f594f8b
 	}
 
 	.bq-jeremy {
 		padding-top: 0px !important;
-<<<<<<< HEAD
 		width: 282px;
 		margin-left: auto;
 		text-align: center;
-=======
 		width: 300px;
 		margin-left: 0px !important;
->>>>>>> 1617e922f3a3e1dd548a366bcabbe2b53f594f8b
 	}
 
 	.bqstart {
@@ -149,7 +138,6 @@
 	}
 
 	.call-to-action-content {
-<<<<<<< HEAD
 		width: auto;
 		text-align: center;
 	}
@@ -657,9 +645,3 @@
 
 
 
-=======
-		width: auto
-	}
-
-}
->>>>>>> 1617e922f3a3e1dd548a366bcabbe2b53f594f8b
