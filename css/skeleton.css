@@ -65,7 +65,11 @@
   .three.columns                  { width: 22%;            }
   .four.columns                   { width: 30.6666666667%; }
   .five.columns                   { width: 39.3333333333%; }
+<<<<<<< HEAD
   .six.columns                    { width: 50%;            }
+=======
+  .six.columns                    { width: 47%;            }
+>>>>>>> 1617e922f3a3e1dd548a366bcabbe2b53f594f8b
   .seven.columns                  { width: 56.6666666667%; }
   .eight.columns                  { width: 65.3333333333%; }
   .nine.columns                   { width: 74.0%;          }
@@ -90,7 +94,11 @@
   .offset-by-five.column,
   .offset-by-five.columns         { margin-left: 43.3333333333%; }
   .offset-by-six.column,
+<<<<<<< HEAD
   .offset-by-six.columns          { margin-left: 32%;            }
+=======
+  .offset-by-six.columns          { margin-left: 52%;            }
+>>>>>>> 1617e922f3a3e1dd548a366bcabbe2b53f594f8b
   .offset-by-seven.column,
   .offset-by-seven.columns        { margin-left: 60.6666666667%; }
   .offset-by-eight.column,
@@ -308,7 +316,11 @@ ol ul {
   margin: 1.5rem 0 1.5rem 3rem;
   font-size: 90%; }
 li {
+<<<<<<< HEAD
   margin-bottom: 0rem; }
+=======
+  margin-bottom: 1rem; }
+>>>>>>> 1617e922f3a3e1dd548a366bcabbe2b53f594f8b
 
 
 /* Code

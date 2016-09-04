@@ -44,11 +44,19 @@
 .flexnav>li{
 	float:left;
 	display:block;
+<<<<<<< HEAD
 	position:relative;
 }
 
 .flexnav li a{
 	color: #000000;
+=======
+	position:relative
+}
+
+.flexnav li a{
+	color:#7a8189;
+>>>>>>> 1617e922f3a3e1dd548a366bcabbe2b53f594f8b
 	-webkit-transition:color .2s ease-out;
 	-moz-transition:color .2s ease-out;
 	-ms-transition:color .2s ease-out;-o-transition:color .2s ease-out;
@@ -56,10 +64,16 @@
 }
 
 .flexnav>li>a{
+<<<<<<< HEAD
 	color: #000000 !important;
 	display:block;
 	font-weight:500;
 	text-decoration:none;
+=======
+	display:block;
+	font-weight:300;
+	text-decoration:none
+>>>>>>> 1617e922f3a3e1dd548a366bcabbe2b53f594f8b
 }
 
 .flexnav li a:hover{
@@ -100,8 +114,13 @@
 	width:10px;
 	height:10px;
 	position:absolute;
+<<<<<<< HEAD
 	border-bottom:1px solid #000000;
 	border-left:1px solid #000000;
+=======
+	border-bottom:1px solid #7a8189;
+	border-left:1px solid #7a8189;
+>>>>>>> 1617e922f3a3e1dd548a366bcabbe2b53f594f8b
 	right:21px;
 	top:20px;
 	-webkit-transform:rotate(-45deg);
@@ -117,7 +136,11 @@
 	}
 
 	.flexnav li:hover>.touch-button::after,.sm-screen .submenu-open::after{
+<<<<<<< HEAD
 		border-color:#A8282F;
+=======
+		border-color:#fff
+>>>>>>> 1617e922f3a3e1dd548a366bcabbe2b53f594f8b
 		}
 
 	.flexnav ul{
@@ -137,10 +160,15 @@
 		}
 
 	.flexnav ul li a{
+<<<<<<< HEAD
 		background-color:rgba(192,192,192,0.75);
 		color: #000000 !important;
 		font-size: 14px;
 		font-weight: 500;
+=======
+		background-color:rgba(192,192,192,0.3);
+		font-size: 14px;
+>>>>>>> 1617e922f3a3e1dd548a366bcabbe2b53f594f8b
 		padding:12px 22px;
 		display:block;
 		width:200px;
@@ -177,8 +205,12 @@
 			overflow:hidden;max-height:0
 			}
 		.flexnav.show{
+<<<<<<< HEAD
 			overflow:visible;
 			/*max-height:3000px*/
+=======
+			overflow:visible;max-height:3000px
+>>>>>>> 1617e922f3a3e1dd548a366bcabbe2b53f594f8b
 		}
 		.flexnav li{float:none}
 		.flexnav ul li a{
@@ -187,6 +219,7 @@
 			padding-left:42px;
 		}
 
+<<<<<<< HEAD
 		.flexnav>li>a{
 	color: #000000 !important;
 	display:block;
@@ -195,6 +228,8 @@
 	background: rgba(192,192,192,0.75);
 }
 
+=======
+>>>>>>> 1617e922f3a3e1dd548a366bcabbe2b53f594f8b
 		.flexnav>li{border-top:1px solid #31353f}
 		.flexnav ul,.flexnav ul ul{
 			position:relative;
@@ -224,7 +259,11 @@
 			border-left:0;
 			border-top:2px solid #7a8189;
 			border-bottom:2px solid #7a8189;
+<<<<<<< HEAD
 			height:4px;width:12px;top:22px;
+=======
+			height:2px;width:12px;top:22px;
+>>>>>>> 1617e922f3a3e1dd548a366bcabbe2b53f594f8b
 		}
 
 		.menu-button::after{
@@ -232,9 +271,13 @@
 			width:12px;
 			height:2px;
 			content:'';position:absolute;
+<<<<<<< HEAD
 			background:#7a8189;
 			right:21px;
 			top:29px;
+=======
+			background:#7a8189;right:21px;top:30px
+>>>>>>> 1617e922f3a3e1dd548a366bcabbe2b53f594f8b
 			}
 
 		.flexnav ul ul li a{
@@ -246,6 +289,7 @@
 		}
 
 		.touch-button{
+<<<<<<< HEAD
 			/*top: 0px !important;*/
 		}
 
@@ -254,6 +298,15 @@
 @media all and (max-width:800px) {
 		.right-nav {
 		  margin-top: none;
+=======
+			top: 0px !important;
+		}
+
+		
+@media all and (max-width:800px) {
+		.right-nav {
+		  margin-top: 0px !important;
+>>>>>>> 1617e922f3a3e1dd548a366bcabbe2b53f594f8b
 		}
 
 

@@ -1,13 +1,20 @@
 *
+<<<<<<< HEAD
 * Grupo Gingado Capoeira 
 * Copyright 2016, Glen Inocencio
 * 1/1/2016
+=======
+* Portfolio 
+* Copyright 2015, Glen Inocencio
+* 9/1/2015
+>>>>>>> 1617e922f3a3e1dd548a366bcabbe2b53f594f8b
 *
 
 
 /* Table of contents
 ––––––––––––––––––––––––––––––––––––––––––––––––––
 - Global Elements
+<<<<<<< HEAD
 - Top Navigation  
 - Landing Page
 - About 
@@ -19,6 +26,12 @@
 - Summer Camp
 - Class Schedule
 - Locations
+=======
+- Landing Page  
+- UX/UI Design
+- Print
+- Illustration
+>>>>>>> 1617e922f3a3e1dd548a366bcabbe2b53f594f8b
 - Contact
 - Footer
 */
@@ -48,9 +61,15 @@ p {
 }
 
 h1, h2, h3, h4, h5 {
+<<<<<<< HEAD
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 1.2;
   font-weight: 400;
+=======
+  font-family: "DinPro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1.2;
+  font-weight: 500;
+>>>>>>> 1617e922f3a3e1dd548a366bcabbe2b53f594f8b
 }
 
 h1 {
@@ -117,6 +136,7 @@ blockquote {
   position: relative;
 }
 
+<<<<<<< HEAD
 .red-box {
   width: 75px;
   height: 10px;
@@ -174,6 +194,8 @@ blockquote {
 }
 
 
+=======
+>>>>>>> 1617e922f3a3e1dd548a366bcabbe2b53f594f8b
 /* Top Navigation
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
@@ -182,10 +204,14 @@ blockquote {
 }
 
 .right-nav {
+<<<<<<< HEAD
   margin-top: 25px;
   margin-left: auto;  
   margin-right: auto;
   float: right;
+=======
+  margin-top: -70px;
+>>>>>>> 1617e922f3a3e1dd548a366bcabbe2b53f594f8b
 }
 
 .logo {
@@ -194,6 +220,7 @@ blockquote {
   left:0;
 }
 
+<<<<<<< HEAD
 
 /* Landing Page
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -203,6 +230,11 @@ blockquote {
   height: auto;
 }
 
+=======
+/* Landing Page
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+>>>>>>> 1617e922f3a3e1dd548a366bcabbe2b53f594f8b
 
 .hero-box {
   height: 500px;
@@ -210,9 +242,12 @@ blockquote {
   width: 100%;
 }
 
+<<<<<<< HEAD
 .hero-pic {
   padding-top: 15px;
 }
+=======
+>>>>>>> 1617e922f3a3e1dd548a366bcabbe2b53f594f8b
 
 .home-hero-caption {
   padding-top: 100px;
@@ -236,6 +271,10 @@ blockquote {
   color: black;
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1617e922f3a3e1dd548a366bcabbe2b53f594f8b
 .icons-home-section {
   margin-left: 100px;
   margin-right: 25px;
@@ -263,6 +302,7 @@ blockquote {
 }
 
 .testimonial-home-section {
+<<<<<<< HEAD
   height: auto;
   background-color: #A8282F;
   padding: 25px;
@@ -279,21 +319,36 @@ blockquote {
 .testimonial-quote {
   display: inline-block;
   vertical-align: top;
+=======
+  height: 250px;
+  background-color: #A8282F;
+  padding: 50px;
+>>>>>>> 1617e922f3a3e1dd548a366bcabbe2b53f594f8b
 }
 
 .bq-jeremy {
   color: #fff;
   width: 500px;
   padding-top: 30px;
+<<<<<<< HEAD
   text-align: left;
 }
 
+=======
+}
+
+
+>>>>>>> 1617e922f3a3e1dd548a366bcabbe2b53f594f8b
 .bqstart {
   float: left;
   padding-top: 0px;
   font-size: 700%;
   color: #fff;
+<<<<<<< HEAD
   margin-top: -45px;
+=======
+  margin-top: -35px;
+>>>>>>> 1617e922f3a3e1dd548a366bcabbe2b53f594f8b
 }
 
 .call-to-action-section {
@@ -320,9 +375,15 @@ blockquote {
 .call-to-action-content {
   position: relative;
   width: 500px;
+<<<<<<< HEAD
   height: auto;
   color: #A8282F;
   padding: 25px;
+=======
+  height: 150px;
+  color: #A8282F;
+  padding: 10px;
+>>>>>>> 1617e922f3a3e1dd548a366bcabbe2b53f594f8b
   top: 100px;
   background-color: rgba(255, 255, 255, 0.5);
   text-align: center;
@@ -343,6 +404,7 @@ blockquote {
   color: #FFF !important;
 }
 
+<<<<<<< HEAD
 /* About 
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .about-hero-section {
@@ -1029,6 +1091,9 @@ textarea:active {
    font-size: 14px;
   line-height: 0.5;
 }
+=======
+
+>>>>>>> 1617e922f3a3e1dd548a366bcabbe2b53f594f8b
 
 /* Footer
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -1056,7 +1121,11 @@ textarea:active {
 }
 
 .social-media-icon {
+<<<<<<< HEAD
   padding-right: 15px;
+=======
+  padding-right: 10px;
+>>>>>>> 1617e922f3a3e1dd548a366bcabbe2b53f594f8b
 }
 
 
